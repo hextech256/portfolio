@@ -102,6 +102,22 @@ nav {
   margin-top: 0;
 }
 
+.skills-list {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+}
+
+.skills-list li {
+  background: var(--bg-alt);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 0.4rem 1rem;
+  font-size: 0.95rem;
+}
+
 .links {
   list-style: none;
   padding: 0;
