@@ -10,7 +10,7 @@ Click **Use this template** at the top of this repo on GitHub, then clone
 your new repo:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO.git
+git clone https://github.com/hextech/portifolio.git
 cd YOUR-REPO
 npm install
 npm run dev
